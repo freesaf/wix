@@ -1,7 +1,5 @@
 import React, { useState } from "react";
-import CheckboxTree from "react-checkbox-tree";
 import { FaChevronDown, FaChevronRight, FaFile } from "react-icons/fa";
-import { RiCheckboxIndeterminateLine } from "react-icons/ri";
 
 export default function Check2() {
   const [state, setstate] = useState({

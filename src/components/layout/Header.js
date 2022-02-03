@@ -8,7 +8,6 @@ import {
 } from "react-icons/ri";
 import { Link, useNavigate } from "react-router-dom";
 
-import profileImage from "../../images/profile.png";
 import { dashboardLink } from "../../routes";
 
 export default function Header() {
